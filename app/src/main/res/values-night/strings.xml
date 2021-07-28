@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_content_desc">图片加载中...</string>
+    <string name="article">Article</string>
+    <string name="wechat">Wechat</string>
+    <string name="profile">Profile</string>
+</resources>
